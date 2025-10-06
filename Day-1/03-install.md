@@ -1,7 +1,7 @@
 # Install Terraform
 
 ## Windows
-
+## 
 1. Install Terraform from the Downloads [Page](https://developer.hashicorp.com/terraform/downloads)
 
 (or)

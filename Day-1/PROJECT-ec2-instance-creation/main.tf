@@ -1,8 +1,8 @@
 provider "aws" {
-    region = "us-west-1"  # Set your desired AWS region
+    region = "us-east-1"  # Set your desired AWS region
 }
 
 resource "aws_instance" "example" {
-  ami           = "ami-005e54dee72cc1d00" # us-west-2
+  ami           = "ami-0230bd60aa48260c6"  # Amazon Linux 2023 for us-east-1
     instance_type = "t2.micro"
 }
